@@ -1,6 +1,7 @@
 #README#
 
 All testing done on a clean install of Ubuntu Desktop 12.04 64bit
+Dependencies: sudo, universe repository
 
 ####INFO####
 The Web-scraping works in 2 parts.
